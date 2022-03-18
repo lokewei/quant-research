@@ -52,3 +52,8 @@ percent = (s1 / s2) * 100
 print('%2.1f%%' % percent)
 print(f'{percent:2.1f}%')
 print(float('0.2'))
+
+b = True
+b1 = ~b
+print(b1)
+print(not b)

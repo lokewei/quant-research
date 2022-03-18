@@ -5,4 +5,4 @@ while counter <= n:
   sum = sum + counter
   counter += 1
 
-print("1 到 %d 的和为 %d" % (n, counter))
+print("1 到 %d 的和为 %d" % (n, sum))
