@@ -1,6 +1,6 @@
 {
   "jupyter.jupyterServerType": "local",
-  "python.defaultInterpreterPath": "/Users/weiqi/.pyenv/versions/3.10.0/bin/python",
+  "python.defaultInterpreterPath": "/Users/weiqi/.pyenv/versions/3.10.0/envs/quant/bin/python",
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": false,
 }
