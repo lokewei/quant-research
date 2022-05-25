@@ -3,4 +3,12 @@
   "python.defaultInterpreterPath": "/Users/weiqi/.pyenv/versions/3.10.0/envs/quant/bin/python",
   "python.linting.pylintEnabled": true,
   "python.linting.enabled": false,
+  "editor.tabSize": 2,
+  "python.linting.pylintArgs": [
+    "--indent-string='  '"
+  ],
+  "python.formatting.autopep8Args": [
+    "--indent-size=2"
+  ],
+  "python.formatting.provider": "autopep8"
 }
